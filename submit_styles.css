@@ -1,0 +1,39 @@
+button {
+    display: inline-block;
+    background-color: #d9d9d9;
+    font-family: 'lexend', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    transition-duration: 0.4ms;
+}
+
+button:hover {
+    background-color: black;
+    color: #d9d9d9;
+}
+
+.uno {
+    width: 140px;
+    height: 64px;
+    padding: 12px;
+    border-style: none;
+}
+
+.dos {
+    width: 140px;
+    height: 64px;
+    padding: 12px;
+    border-style: none;
+    border-radius: 16px;
+}
+
+.tres {
+    width: 75%;
+    height: 64px;
+    border-style: none;
+    border-radius: 16px;
+    box-shadow: 2px 2px 10px 6px grey;
+}
